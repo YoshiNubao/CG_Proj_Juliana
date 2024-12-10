@@ -39,9 +39,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 112.74129
+    x: 332.30646
     y: 374.21075
-    width: 32.218
+    width: 94.963
     height: 50.48
   relativePosition: {x: 68, y: 85.7}
   numSlots: 1
@@ -174,10 +174,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 10.467133
+    x: 19.594614
     y: 0
-    width: 252.566
-    height: 72.42145
+    width: 472.807
+    height: 69.981514
   relativePosition: {x: 3.9, y: 0}
   numSlots: 1
   uiTextTMP: {fileID: 0}
@@ -366,9 +366,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 102.793526
+    x: 302.98532
     y: 278.58395
-    width: 43.078
+    width: 126.973
     height: 56.79
   relativePosition: {x: 62, y: 63.8}
   numSlots: 1
@@ -437,9 +437,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 17.90597
+    x: 52.778088
     y: 373.33746
-    width: 32.942
+    width: 97.09701
     height: 52.373
   relativePosition: {x: 10.8, y: 85.5}
   numSlots: 1
@@ -547,7 +547,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 10
   title: Label
-  slotSize: {x: 50.341297, y: 5.8192954}
+  slotSize: {x: 50.182316, y: 11.251981}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -574,8 +574,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 9.423
     y: 9.423
-    width: 295
-    height: 38
+    width: 550.5
+    height: 71
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiTextTMP: {fileID: 0}
@@ -619,7 +619,7 @@ MonoBehaviour:
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
-  fontScaleFactor: 1.8
+  fontScaleFactor: 1.69
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -637,11 +637,11 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 12.345848
-    y: 229.553
-    width: 241.78798
-    height: 18.105362
-  relativePosition: {x: 4.6, y: 50.8}
+    x: 24.618876
+    y: 213.52283
+    width: 452.6304
+    height: 17.495378
+  relativePosition: {x: 4.9, y: 48.9}
   numSlots: 1
   uiTextTMP: {fileID: 0}
   hideScrollingCharacters: 0
@@ -772,9 +772,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 39.127857
+    x: 115.329895
     y: 58.94802
-    width: 54.3
+    width: 160.05
     height: 12.666058
   relativePosition: {x: 23.6, y: 13.5}
   numSlots: 1
@@ -893,7 +893,7 @@ MonoBehaviour:
   title: Tela_Discar
   manualSize: {x: 45.8, y: 69.2}
   positionType: 0
-  manualPosition: {x: 181, y: 315.5}
+  manualPosition: {x: 533.5, y: 315.5}
   positionSmoothing: 0
   alignment: 5
   toggleKey: Tela_Celular
@@ -1000,9 +1000,9 @@ MonoBehaviour:
   biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
-    x: 98.102
+    x: 289.15698
     y: 97.17401
-    width: 165.796
+    width: 488.686
     height: 436.65198
 --- !u!114 &-6921481827745197915
 MonoBehaviour:
@@ -1464,9 +1464,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 64.992035
+    x: 191.56491
     y: 157.19472
-    width: 34.027996
+    width: 100.298
     height: 55.528
   relativePosition: {x: 39.2, y: 36}
   numSlots: 1
@@ -1581,7 +1581,7 @@ MonoBehaviour:
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
-  fontScaleFactor: 1.8
+  fontScaleFactor: 1.69
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -1599,11 +1599,11 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 13.687788
-    y: 255.30992
-    width: 209.20201
-    height: 18.105362
-  relativePosition: {x: 5.1, y: 56.5}
+    x: 24.11645
+    y: 242.7785
+    width: 391.62903
+    height: 17.495378
+  relativePosition: {x: 4.8, y: 55.6}
   numSlots: 1
   uiTextTMP: {fileID: 0}
   hideScrollingCharacters: 0
@@ -1645,7 +1645,7 @@ MonoBehaviour:
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
-  fontScaleFactor: 1.8
+  fontScaleFactor: 1.69
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -1664,10 +1664,10 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 0
-    y: 159.9641
-    width: 263.7
-    height: 108.63217
-  relativePosition: {x: 0, y: 35.4}
+    y: 142.34854
+    width: 493.65002
+    height: 104.972275
+  relativePosition: {x: 0, y: 32.6}
   numSlots: 1
   uiTextTMP: {fileID: 0}
   hideScrollingCharacters: 0
@@ -1791,9 +1791,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 24.04042
+    x: 70.85947
     y: 219.63596
-    width: 32.579998
+    width: 96.03
     height: 51.741997
   relativePosition: {x: 14.5, y: 50.3}
   numSlots: 1
@@ -1933,10 +1933,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 28.985905
-    y: 386.35394
-    width: 53.326004
-    height: 54.199
+    x: 54.26201
+    y: 373.33746
+    width: 99.827
+    height: 52.373
   relativePosition: {x: 10.8, y: 85.5}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2159,7 +2159,7 @@ MonoBehaviour:
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
-  fontScaleFactor: 2.1
+  fontScaleFactor: 1.39
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -2177,16 +2177,16 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 72.46476
-    y: 28.468187
-    width: 182.246
-    height: 108.63217
-  relativePosition: {x: 27, y: 6.3}
+    x: 135.65501
+    y: 29.255682
+    width: 341.16702
+    height: 104.972275
+  relativePosition: {x: 27, y: 6.7}
   numSlots: 1
   uiTextTMP: {fileID: 0}
   hideScrollingCharacters: 0
   uiText: {fileID: 0}
-  _label: Fique a vontade para passear pela cidade de Henshio.
+  _label: Explore a cidade de Henshio!!!!
   anchor: 4
   textEffects: 0
   outlineSize: 2
@@ -2343,10 +2343,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 182.50385
-    y: 387.2577
-    width: 52.154
-    height: 52.24
+    x: 341.6497
+    y: 374.21075
+    width: 97.632996
+    height: 50.48
   relativePosition: {x: 68, y: 85.7}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2607,9 +2607,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 107.7674
+    x: 317.6459
     y: 155.01146
-    width: 33.666
+    width: 99.231
     height: 58.052
   relativePosition: {x: 65, y: 35.5}
   numSlots: 1
@@ -2749,10 +2749,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 22.544592
-    y: 94.44208
-    width: 45.122
-    height: 47.016
+    x: 42.20378
+    y: 91.26026
+    width: 84.469
+    height: 45.432
   relativePosition: {x: 8.4, y: 20.9}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2806,7 +2806,7 @@ MonoBehaviour:
   title: Tela_Explica_Regras
   manualSize: {x: 45.8, y: 69.2}
   positionType: 0
-  manualPosition: {x: 293, y: 326.5}
+  manualPosition: {x: 548.5, y: 315.5}
   positionSmoothing: 0
   alignment: 5
   toggleKey: Tela_Celular
@@ -2902,10 +2902,10 @@ MonoBehaviour:
   biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
-    x: 158.806
-    y: 100.56201
-    width: 268.388
-    height: 451.87598
+    x: 297.287
+    y: 97.17401
+    width: 502.426
+    height: 436.65198
 --- !u!114 &-887819637456294991
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3053,9 +3053,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 64.66044
+    x: 190.58754
     y: 219.63596
-    width: 34.39
+    width: 101.365
     height: 51.741997
   relativePosition: {x: 39, y: 50.3}
   numSlots: 1
@@ -3367,9 +3367,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 27.024748
+    x: 79.655815
     y: 284.26044
-    width: 27.873999
+    width: 82.159
     height: 45.432
   relativePosition: {x: 16.3, y: 65.1}
   numSlots: 1
@@ -3438,9 +3438,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 24.04042
+    x: 70.85947
     y: 155.01146
-    width: 32.942
+    width: 97.09701
     height: 56.79
   relativePosition: {x: 14.5, y: 35.5}
   numSlots: 1
@@ -3626,7 +3626,7 @@ MonoBehaviour:
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
-  fontScaleFactor: 2.1
+  fontScaleFactor: 1.53
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -3644,17 +3644,17 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 75.68542
-    y: 96.701454
-    width: 175.214
-    height: 108.63217
-  relativePosition: {x: 28.2, y: 21.4}
+    x: 141.68414
+    y: 87.3304
+    width: 328.003
+    height: 104.972275
+  relativePosition: {x: 28.2, y: 20}
   numSlots: 1
   uiTextTMP: {fileID: 0}
   hideScrollingCharacters: 0
   uiText: {fileID: 0}
-  _label: "Ao longo de seu passeio, se voc\xEA encontrar algo fora do comum, n\xE3o
-    exite em discar para as autoridades"
+  _label: Cuidado imprevistos podem acontecer a qualquer momento, se ver algo suspeito
+    ligue para as autoridades rapidamente
   anchor: 4
   textEffects: 0
   outlineSize: 2
@@ -4106,9 +4106,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 108.09899
+    x: 318.62326
     y: 94.75349
-    width: 33.303997
+    width: 98.164
     height: 56.158997
   relativePosition: {x: 65.2, y: 21.7}
   numSlots: 1
@@ -4305,9 +4305,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 65.98681
+    x: 194.49702
     y: 96.50009
-    width: 32.942
+    width: 97.09701
     height: 55.528
   relativePosition: {x: 39.8, y: 22.1}
   numSlots: 1
@@ -4376,9 +4376,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 66.318405
+    x: 195.4744
     y: 376.394
-    width: 31.493998
+    width: 92.829
     height: 46.063
   relativePosition: {x: 40, y: 86.2}
   numSlots: 1
@@ -4518,9 +4518,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 108.59638
+    x: 320.08932
     y: 217.45268
-    width: 31.493998
+    width: 92.829
     height: 53.635
   relativePosition: {x: 65.5, y: 49.8}
   numSlots: 1
@@ -4699,7 +4699,7 @@ MonoBehaviour:
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
-  fontScaleFactor: 2
+  fontScaleFactor: 1.59
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -4717,10 +4717,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 107.3552
-    y: 389.5171
-    width: 50.982
-    height: 47.669003
+    x: 200.9704
+    y: 376.394
+    width: 95.439
+    height: 46.063
   relativePosition: {x: 40, y: 86.2}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -4771,7 +4771,7 @@ MonoBehaviour:
   alternativeInputButton: 
   font: {fileID: 0}
   fontScaleFactor: 1.8
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontColor: {r: 1, g: 0.19339621, b: 0.19339621, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
   isClickable: 0
@@ -4789,17 +4789,17 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 0
-    y: 263.89557
-    width: 269.56
-    height: 72.42145
-  relativePosition: {x: 0, y: 58.4}
+    y: 252.38484
+    width: 504.62003
+    height: 69.981514
+  relativePosition: {x: 0, y: 57.8}
   numSlots: 1
   uiTextTMP: {fileID: 0}
   hideScrollingCharacters: 0
   uiText: {fileID: 0}
   _label: "1) Disque errado e voc\xEA ser\xE1 punido em sua vida!"
   anchor: 4
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
   effectColour: {r: 0, g: 0, b: 0, a: 1}
   labelType: 0
@@ -5091,9 +5091,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 65.65521
+    x: 193.51964
     y: 277.71066
-    width: 34.39
+    width: 101.365
     height: 58.683002
   relativePosition: {x: 39.6, y: 63.6}
   numSlots: 1
@@ -5360,9 +5360,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 28.516914
+    x: 84.05399
     y: 45.411804
-    width: 76.02
+    width: 224.07
     height: 39.121998
   relativePosition: {x: 17.2, y: 10.4}
   numSlots: 1
@@ -5423,9 +5423,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 22.879848
+    x: 67.43867
     y: 98.68335
-    width: 34.752
+    width: 102.43201
     height: 52.373
   relativePosition: {x: 13.8, y: 22.6}
   numSlots: 1
@@ -5605,7 +5605,7 @@ MonoBehaviour:
   alternativeInputButton: 
   font: {fileID: 0}
   fontScaleFactor: 1.8
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontColor: {r: 0.9528302, g: 0.17528482, b: 0.17528482, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
   isClickable: 0
@@ -5623,17 +5623,17 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 0
-    y: 299.59378
-    width: 256.082
-    height: 54.316086
-  relativePosition: {x: 0, y: 66.3}
+    y: 288.1903
+    width: 479.389
+    height: 52.486137
+  relativePosition: {x: 0, y: 66}
   numSlots: 1
   uiTextTMP: {fileID: 0}
   hideScrollingCharacters: 0
   uiText: {fileID: 0}
   _label: "2) N\xE3o demore pra discar, vidas est\xE3o em jogo"
   anchor: 4
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
   effectColour: {r: 0, g: 0, b: 0, a: 1}
   labelType: 0
@@ -5757,9 +5757,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 113.23868
+    x: 333.77255
     y: 51.961586
-    width: 22.443998
+    width: 66.154
     height: 23.977999
   relativePosition: {x: 68.3, y: 11.9}
   numSlots: 1
