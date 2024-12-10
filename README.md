@@ -12,9 +12,12 @@ O projeto foi um jogo desenvolvido utilizando o motor de desenvolvimento **Unity
 
 ## Objetivo do Jogo
 
-O jogo consiste no jogador explorar a cidade de Henshio buscando problemas que só podem ser resolvidos com a ajuda de autoridades, necessitando que o jogador ligue para o número da autoridade necessária
+O jogo consiste no jogador explorar a cidade de Henshio buscando problemas que só podem ser resolvidos com a ajuda de autoridades, necessitando que o jogador ligue para o número da autoridade correspondente
+
 190-Polícia
+
 192-SAMU
+
 193-Bombeiro
 
 ---
